@@ -1,4 +1,4 @@
-**Talk-to-ChatGPT** is a Google Chrome and Microsoft Edge extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot's answer with a voice (text-to-speech), rather than just by typing. With this tool, users can speak to the AI and receive spoken responses, making the interaction feel more natural and conversational. This allows you to have your own personal assistant in the style of Iron Man's Jarvis, which is fun, but it's also a great way to help the elderly and people with disabilities interact with ChatGPT. **We now support ElevenLabs API integration, which means you can create your own voices for text-to-speech!**
+**LightRein-MackTradingMentor** is a Google Chrome and Microsoft Edge extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot's answer with a voice (text-to-speech), rather than just by typing. With this tool, users can speak to the AI and receive spoken responses, making the interaction feel more natural and conversational. This allows you to have your own personal assistant in the style of Iron Man's Jarvis, which is fun, but it's also a great way to help the elderly and people with disabilities interact with ChatGPT. **We now support ElevenLabs API integration, which means you can create your own voices for text-to-speech!**
 
 The extension can be downloaded from here:
 * From the **Chrome Web store** here: https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk
@@ -9,7 +9,7 @@ After installing the extension, open or reload the ChatGPT page ( https://chat.o
 
 ![Talk-to-GPT Widget](/images/260-main.png?raw=true "Talk-to-ChatGPT Widget")
 
-Once started, Talk-to-ChatGPT displays a menu on the top right corner of the page where users can access settings (such as voice, language, and more), skip the current message, toggle voice recognition on or off, and toggle text-to-speech on or off.
+Once started, LightRein-MackTradingMentor displays a menu on the top right corner of the page where users can access settings (such as voice, language, and more), skip the current message, toggle voice recognition on or off, and toggle text-to-speech on or off.
 
 The settings menu can be seen below. Settings are saved in a cookie and reloaded automatically each time you activate the script.
 
@@ -27,7 +27,7 @@ Demo V2.6 with ElevenLabs support: https://www.youtube.com/watch?v=gnijfWuenKA
 
 ### Option 2: MANUAL INSTALL
 If the extension is temporarily unavailable (this can happen when OpenAI make breaking changes), or if you want to install the latest updates before they are available on the Chrome/Edge web store, you can install the extension manually. Here is how you do it.
-1. Download the .zip file here: https://github.com/C-Nedelcu/talk-to-chatgpt/raw/main/chrome-extension/chrome-extension.zip (this link will always point to the latest version)
+1. Download the .zip file here: https://github.com/cruiserein22/LightRein-MackTradingMentor/raw/main/chrome-extension/chrome-extension.zip (this link will always point to the latest version)
 2. Extract the .zip file in a folder somewhere
 3. Follow this tutorial to install the extension in Chrome/Edge in dev mode: https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 
@@ -57,7 +57,7 @@ A: this is entirely based on the web browser APIs (Google Chrome, Microsoft Edge
 
 # Press coverage
 
-Talk-to-ChatGPT has been receiving press coverage since its release. It is currently featured on the following sites:
+LightRein-MackTradingMentor has been receiving press coverage since its release. It is currently featured on the following sites:
 
 * BGR.com - https://bgr.com/tech/free-talk-to-chatgpt-chrome-extension-gives-ai-a-voice/
 * GeekFlare - https://geekflare.com/best-chatgpt-chrome-extensions/
@@ -132,13 +132,13 @@ Version 2.0.0 - April 10th, 2023:
 * New: an option to avoid breaking down sentences with commas or other punctuation marks such as colons and semicolons
 * Fixed: vocal commands such as the stop and pause words wouldn't always work because the speech recognition would add a dot at the end
 
-For older change logs, please check the commit messages: https://github.com/C-Nedelcu/talk-to-chatgpt/commits/main
+For older change logs, please check the commit messages: https://github.com/cruiserein22/lightrein-macktradingmentor/commits/main
 
 # Donations
 
-Thanks for reading all the way down. Are you enjoying Talk-To-ChatGPT and want me to continue improving it? You can help by making a donation to the project. Please click the Donate button to proceed.
+Thanks for reading all the way down. Are you enjoying LightRein-MackTradingMentor and want me to continue improving it? You can help by making a donation to the project. Please click the Donate button to proceed.
 
-[<img alt="paypal" height="80" src="https://edunext.com.sg/paypal.png" />](https://www.paypal.com/donate/?business=BZ43BM7XSSKKW&no_recurring=0&item_name=Are+you+enjoying+Talk-To-ChatGPT?+If+so%2C+consider+making+a+donation+to+keep+the+project+going%2C+and+I%27ll+continue+improving+it%21&currency_code=EUR)
+[<img alt="paypal" height="80" src="macktrading.png" />]
 
 
     
